@@ -1,0 +1,6 @@
+show_logs (`true`);
+run (`clear`);
+main (`test.cc`);
+include [`include`];
+exec ();
+make ();
