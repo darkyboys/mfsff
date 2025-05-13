@@ -205,7 +205,3 @@ Feel free to fork, modify, and contribute to the development of `MFSFF`. If you'
 ## **License**
 
 `MFSFF` is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-This should give you a well-structured and understandable documentation to help users of your `MFSFF` library. If there are specific sections or features you'd like to expand on, let me know!
