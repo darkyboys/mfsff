@@ -1,7 +1,3 @@
-Sure! Below is a draft for documentation that explains how to use the `MFSFF` library, its purpose, and details on the key components.
-
----
-
 # **MFSFF - Magma File System For Files**
 
 **Author**: ghgltggamer
